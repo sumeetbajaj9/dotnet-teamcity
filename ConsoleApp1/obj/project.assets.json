@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sumeetbajaj/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/sumeetbajaj/rd/dotnet-teamcity/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/sumeetbajaj/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/sumeetbajaj/rd/dotnet-teamcity/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/sumeetbajaj/.nuget/packages/",
-      "outputPath": "/Users/sumeetbajaj/RiderProjects/ConsoleApp1/ConsoleApp1/obj/",
+      "outputPath": "/Users/sumeetbajaj/rd/dotnet-teamcity/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
