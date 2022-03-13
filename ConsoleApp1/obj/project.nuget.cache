@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N6V48OrDto/6LNCO0QvB9HBApEsYDZyONHPP1UrnMRHnRJvJCKUqZjfKOU2PF99P9F7kMMr4dXECB9EtuV7soQ==",
+  "success": true,
+  "projectFilePath": "/Users/sumeetbajaj/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/sumeetbajaj/.nuget/packages/stylecop.analyzers/1.2.0-beta.406/stylecop.analyzers.1.2.0-beta.406.nupkg.sha512",
+    "/Users/sumeetbajaj/.nuget/packages/stylecop.analyzers.unstable/1.2.0.406/stylecop.analyzers.unstable.1.2.0.406.nupkg.sha512"
+  ],
+  "logs": []
+}
