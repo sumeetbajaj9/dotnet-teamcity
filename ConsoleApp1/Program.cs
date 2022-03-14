@@ -1,7 +1,6 @@
-﻿using System;
-
-namespace ConsoleApp1
+﻿namespace ConsoleApp1
 {
+    using System;
     public class Program
     {
         public static void Main(string[] args)
